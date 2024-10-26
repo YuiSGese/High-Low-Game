@@ -6,7 +6,6 @@ $_SESSION['first_card'] = $first_card;
 
 $first_card_image = str_pad($first_card, 2, '0', STR_PAD_LEFT) . ".png";
 ?>
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
